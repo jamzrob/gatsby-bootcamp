@@ -17,7 +17,7 @@ const Header = () => {
     <header className={headerStyles.header}>
       <h1>
         <Link to="/" className={headerStyles.title}>
-          {data.site.siteMetadata.title}
+          James Raubenheimer
         </Link>
       </h1>
       <nav>
