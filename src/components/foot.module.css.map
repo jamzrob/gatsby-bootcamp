@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OAAQ;EACN,UAAU,EAAE,IAAI",
+"sources": ["foot.module.scss"],
+"names": [],
+"file": "foot.module.css"
+}

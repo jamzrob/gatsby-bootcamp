@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,UAAW;EACT,MAAM,EAAE,MAAM;EACd,SAAS,EAAE,KAAK;EAChB,OAAO,EAAE,IAAI;EAEb,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,UAAU,EAAE,KAAK;;AAGnB,QAAS;EACP,SAAS,EAAE,CAAC",
+"sources": ["layout.module.scss"],
+"names": [],
+"file": "layout.module.css"
+}
